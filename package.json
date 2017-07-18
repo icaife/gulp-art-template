@@ -1,0 +1,23 @@
+{
+  "name": "gulp-art-template",
+  "version": "1.0.0",
+  "description": "gulp plugin for art-template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/icaife/gulp-art-template.git",
+  "keywords": [
+    "gulp",
+    "art-template"
+  ],
+  "author": "Leon.Cai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icaife/gulp-art-template/issues"
+  },
+  "homepage": "https://github.com/icaife/gulp-art-template#readme",
+  "devDependencies": {
+    "art-template": "^4.12.1"
+  }
+}
